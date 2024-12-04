@@ -1,0 +1,19 @@
+body{
+    background-color: #7fffd4;
+}
+h1{
+    color: #0000ff;
+    font-size: 25px;
+    font-family: Arial, Helvetiva, sans-serif;
+}
+h2{
+    color: #ff0000;
+    font-size: 18px;
+    font-family: Verdana;
+}
+p{
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Arial;
+    text-align: justify;
+}
